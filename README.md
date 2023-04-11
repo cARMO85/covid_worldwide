@@ -1,4 +1,6 @@
 # covid_worldwide
+See the published project here on rpubs --- https://rpubs.com/Carmo85/1024353
+
 The goal of the project is to gain insights into how the pandemic has evolved over time and across different countries.
 
 I start by importing the dataset into RStudio and performing some data cleaning and manipulation to prepare the data for analysis. Once I have a clean dataset, I generate visualizations and statistics to answer key questions about the pandemic, such as the number of cases and deaths, the distribution of the virus across different countries, and the effectiveness of various containment measures.
